@@ -1,0 +1,85 @@
+{
+  "algorithm": "SHA-256",
+  "files": {
+    ".gitignore": {
+      "bytes": 63,
+      "sha256": "361759f22116f46107f2d2c3e5f41a0378480fe09e054b5090cfbb77f0cb5ecd"
+    },
+    "artwork/signs/licenses/boutique-bitmap-7x7.txt": {
+      "bytes": 5463,
+      "sha256": "ad588b5ce58a02179b806381339fd380e5110771f2fa91279af026fd3ab97002"
+    },
+    "artwork/signs/licenses/fusion-pixel.txt": {
+      "bytes": 4382,
+      "sha256": "7dc48f6c6122d323186ed54a53edfcae6024be05f84fdb3229ea0f3b45bf4f8a"
+    },
+    "artwork/signs/licenses/galmuri.txt": {
+      "bytes": 4360,
+      "sha256": "86a3ee9495f942f0243f18c103da9faca27adb88142613edb8bb852e56c892c1"
+    },
+    "artwork/signs/licenses/miseki-bitmap.txt": {
+      "bytes": 4358,
+      "sha256": "e855b45b384d37c9a778119271bd9c32706e3f1f9f278de0ad47347606eea846"
+    },
+    "artwork/signs/README.md": {
+      "bytes": 755,
+      "sha256": "81426f20a7044407f4013c3ac1367045539cf78f689a566f0b804efd79d405c8"
+    },
+    "artwork/signs/storage-sign-layout.json": {
+      "bytes": 630,
+      "sha256": "3228990ce2e019630941eb5b879593a21cf86a020bc7ca996e6896fb8083ba66"
+    },
+    "artwork/signs/storage-sign.png": {
+      "bytes": 507,
+      "sha256": "f80dedecf22276c9ca4f9f3cf14bffb630d2afdef3a2121f60aae28a8fadf626"
+    },
+    "CHANGELOG.md": {
+      "bytes": 302,
+      "sha256": "20a9800ab9478e2f235eb46ffdf0798eae04aadd2d627e0a592940363571ab9a"
+    },
+    "CREDITS.md": {
+      "bytes": 797,
+      "sha256": "dcbe1dc36a3e2c306de3c2a6512fd7e58c59127a335eb72fe531b0f2b9a7cf6c"
+    },
+    "docs/VALIDATION.md": {
+      "bytes": 1555,
+      "sha256": "0b6be892636eb3ab6b051abd6af2150c814acbd21dd6c2ac81eec7146a2e93df"
+    },
+    "patch/apply_patch.py": {
+      "bytes": 7125,
+      "sha256": "c35ef3564fa0ec958dd6db1363a71dcb5faab50dc8474ca3b13e08cb3f5792d5"
+    },
+    "patch/METAL_MAX_RETURNS_JP_TO_ZH.bps": {
+      "bytes": 186730,
+      "sha256": "774bc8c59c7be1aae1eda4a22b3407dd88633f91c2465a763b6a7dca18b972ff"
+    },
+    "patch/README.txt": {
+      "bytes": 607,
+      "sha256": "412761fb6f4a3f775725bed32c8d57502e302fc1681cbda901603e0dcdd4547d"
+    },
+    "patch/release.json": {
+      "bytes": 614,
+      "sha256": "58ce7f34c3702108adae0eb975381d5de945c9437c9af86da95fe25c50083478"
+    },
+    "README.md": {
+      "bytes": 2734,
+      "sha256": "d7501376004faeea2679912c4e2ba78a7edd5dddc973cf97b83e6265613caaa0"
+    },
+    "tests/test_apply_patch.py": {
+      "bytes": 5999,
+      "sha256": "cea69a86e19f10bddc7abb91c1de2d492a638d0569a4874babdf286d67a1a3e7"
+    },
+    "translations/dialogue-revisions.json": {
+      "bytes": 312,
+      "sha256": "2f7420d425ed3e9325579799db346bc3594303929d7937caa52be6e2a6ad8c96"
+    },
+    "translations/interface-terms.json": {
+      "bytes": 1215,
+      "sha256": "84333d2a8f24fc11bddb12ca5a069a2f0bc0760560b012201fdc7b6c61354531"
+    },
+    "translations/README.md": {
+      "bytes": 410,
+      "sha256": "60431fad6b48f79eabf1727d678371cf7fcdf8e52ad219faeef6bd0c59eb8614"
+    }
+  }
+}

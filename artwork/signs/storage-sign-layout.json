@@ -1,0 +1,47 @@
+{
+  "text": "寄存",
+  "logical_canvas": [
+    32,
+    8
+  ],
+  "preview_scale": 8,
+  "glyph_pixel_size": 8,
+  "glyph_origins": [
+    [
+      8,
+      0
+    ],
+    [
+      16,
+      0
+    ]
+  ],
+  "font_ink_shift": [
+    0,
+    -1
+  ],
+  "ink_rows": [
+    0,
+    6
+  ],
+  "bottom_row_empty": true,
+  "shadow": "在空白像素且右邻为正文时添加一像素左阴影。",
+  "palette_RGB": [
+    [
+      41,
+      41,
+      49
+    ],
+    [
+      173,
+      173,
+      115
+    ],
+    [
+      107,
+      107,
+      132
+    ]
+  ],
+  "scope": "字体字形派生的文字布局，不含游戏原图块、ROM资源或截图。"
+}

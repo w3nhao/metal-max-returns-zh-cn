@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bs-town",
+    "source_term": "町・村",
+    "proposal_a": "村镇",
+    "proposal_b": "村镇",
+    "final_translation": "村镇",
+    "rationale": "采用简短功能标题，与对应界面的功能名称一致。"
+  },
+  {
+    "id": "bs-tank",
+    "source_term": "戦車",
+    "proposal_a": "战车",
+    "proposal_b": "战车",
+    "final_translation": "战车",
+    "rationale": "采用简短功能标题，与对应界面的功能名称一致。"
+  },
+  {
+    "id": "bs-item",
+    "source_term": "アイテム",
+    "proposal_a": "道具",
+    "proposal_b": "道具",
+    "final_translation": "道具",
+    "rationale": "采用简短功能标题，与对应界面的功能名称一致。"
+  },
+  {
+    "id": "bs-trunk",
+    "source_term": "トランク",
+    "proposal_a": "寄存",
+    "proposal_b": "寄存",
+    "final_translation": "寄存",
+    "rationale": "采用简短功能标题，与对应界面的功能名称一致。"
+  },
+  {
+    "id": "bs-chime",
+    "source_term": "チャイム",
+    "proposal_a": "金钱钟",
+    "proposal_b": "金钱钟",
+    "final_translation": "金钱钟",
+    "rationale": "采用简短功能标题，与对应界面的功能名称一致。"
+  }
+]

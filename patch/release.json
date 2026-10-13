@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "status": "public-test",
+  "format": "BPS",
+  "source": {
+    "game": "Metal Max Returns (Japan)",
+    "bytes": 4194304,
+    "copier_header_bytes": 0,
+    "sha256": "6a68e1806d8d72accb4a5218330210e178880216863c1c38b8865032c5c28724"
+  },
+  "patch": {
+    "file": "METAL_MAX_RETURNS_JP_TO_ZH.bps",
+    "bytes": 186730,
+    "sha256": "774bc8c59c7be1aae1eda4a22b3407dd88633f91c2465a763b6a7dca18b972ff"
+  },
+  "target": {
+    "bytes": 4194304,
+    "sha256": "2169067630de482a8a7a8a19f2851281969225efc7337a7400d9282fd1542e74"
+  },
+  "validation": "../docs/VALIDATION.md"
+}
